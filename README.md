@@ -2,7 +2,7 @@
 
 I built this for **SNC**, a South-Delhi interior-design and construction studio, as a one-man team — design through deploy, driven end to end through agentic AI workflows. The job was to show craft, carry a 250-project portfolio, and turn browsers into a first conversation.
 
-It's a hand-built static site with strong art direction (dark, editorial, gold accents), an animated 3D-floorplan hero, and two service verticals told as their own journeys. The screenshots are of the live site (I removed the real phone numbers before publishing).
+It's a hand-built static site with strong art direction (dark, editorial, gold accents), an animated 3D-floorplan hero, and two service verticals told as their own journeys. The screenshots are from a demo build — a placeholder brand and dummy contact details stand in for the studio's real branding and phone numbers, which I keep out of the public repo.
 
 *The source is in a private repo; happy to share it with a serious reviewer on request.*
 
