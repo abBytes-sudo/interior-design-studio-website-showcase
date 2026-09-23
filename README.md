@@ -1,6 +1,6 @@
 # SNC — Interior-Design & Construction Studio Website
 
-I built this for **SNC**, a South-Delhi interior-design and construction studio, as a one-man team — design through deploy, driven end to end through agentic AI workflows. The job was to show craft, carry a 250-project portfolio, and turn browsers into a first conversation.
+I built this for **SNC**, a South-Delhi interior-design and construction studio, as a one-man team — design through deploy, driven end to end through agentic AI workflows. The job was to show craft, carry the studio's project portfolio, and turn browsers into a first conversation.
 
 It's a hand-built static site with strong art direction (dark, editorial, gold accents), an animated 3D-floorplan hero, and two service verticals told as their own journeys. The screenshots are from a demo build — a placeholder brand and dummy contact details stand in for the studio's real branding and phone numbers, which I keep out of the public repo.
 
@@ -12,7 +12,7 @@ It's a hand-built static site with strong art direction (dark, editorial, gold a
 - **Home** — a cinematic 3D-cutaway hero, the studio's four signature "registers", and a from-plot-to-keys narrative.
 - **Interiors** — the design-and-build story: pick a mood, "what design looks like before it's built", the execution habits, a tier/area configurator, and material registers.
 - **Construction & Collaboration** — the ground-up build and plot-collaboration offer.
-- **Projects** — a filterable 250-project portfolio (construction / interior / commercial / for-sale), each with its own detail page: hero, unit breakdowns, floor plans, and related homes.
+- **Projects** — a filterable project portfolio (construction / interior / commercial / for-sale), each with its own detail page: hero, unit breakdowns, floor plans, and related homes.
 - **Blog** — long-form articles (reading a builder floor, Italian marble in Delhi homes, plot collaboration…).
 - **Contact** — an enquiry form with WhatsApp / call shortcuts.
 
