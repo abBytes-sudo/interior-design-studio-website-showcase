@@ -80,6 +80,6 @@ Top of each page; click for a longer capture (Construction, Article and Contact 
 HTML5 · CSS3 (custom design tokens, dark editorial theme) · vanilla JS · JSON-driven content · responsive / mobile-first · IntersectionObserver + scroll-driven animation · AI-assisted build
 
 ---
-Developed by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for SNC · [LinkedIn](https://www.linkedin.com/in/abhishek-m-b934a925a)
+Developed by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for SNC
 
 © 2026 [@abBytes-sudo](https://github.com/abBytes-sudo). Write-up and screenshots shared for portfolio review; not licensed for reuse. Site content and photography belong to SNC.
